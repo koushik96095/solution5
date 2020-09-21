@@ -1,2 +1,0 @@
-# solution5
-sol
